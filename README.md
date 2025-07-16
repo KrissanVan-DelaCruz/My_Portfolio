@@ -1,7 +1,7 @@
 # My Portfolio
 
-This is my Personal Portfolio and currently ongoing..
+This is my Personal Portfolio which showcase my skills and projects.
 
 # Tech Stack
 
-- Frontend: HTML, CSS  
+- Frontend: HTML, CSS, JavaScript
